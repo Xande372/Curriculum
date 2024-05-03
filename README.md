@@ -1,6 +1,8 @@
 # Alexandre Direito
 
-Olá, falando um pouco sobre mim, eu tenho 24 anos e atualmente formado na área da saúde em Nutrição, mas sempre fui um entusiasta da área da tecnologia e desde então estou estudando por conta própria e com algumas ajudas de amigos da área, me vejo mergulhado nesse mundo onde passo horas vendo, lendo e praticando tudo que me é mostrado e estou à procura de experiências profissionais porque com certeza eu já me identifico bastante.
+Olá! Sou entusiasta por Desenvolvimento de Software, com formação inicial em Nutrição. Em 2024, mergulhei no mundo da tecnologia, começando com HTML5, CSS e JavaScript, e posteriormente me especializando em .NET Developer na DIO.
+
+Desenvolvi minha primeira API, usando TDD, e adquiri sólidos conhecimentos em C#, .NET e SQL Server. Sou versado em Git/GitHub para versionamento de código e tenho experiência em programação orientada a objetos e testes unitários com xUnit.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-direito/)

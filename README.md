@@ -1,8 +1,15 @@
 # Alexandre Direito
 
-Olá! Sou entusiasta por Desenvolvimento de Software, com formação inicial em Nutrição. Em 2024, mergulhei no mundo da tecnologia, começando com HTML5, CSS e JavaScript, e posteriormente me especializando em .NET Developer na DIO.
+Olá! Tenho estudado a área de tecnologia há algum tempo e recentemente ingressei em uma faculdade de ADS. Estou muito entusiasmado e sempre busco aprender cada vez mais.
 
-Desenvolvi minha primeira API, usando TDD, e adquiri sólidos conhecimentos em C#, .NET e SQL Server. Sou versado em Git/GitHub para versionamento de código e tenho experiência em programação orientada a objetos e testes unitários com xUnit.
+Já aprendi bastante e procurando experiências profissionais:
+- .Net Core, Asp Net Core, MVC, TDD;
+- Programação Orientada à Objeto;
+- C#, Java e Python;
+- SQL Server, MySQL, Docker;
+- Desenvolvimento de Web Api's;
+- HTML / CSS / JavaScript;
+- Versado em Git e GitHub.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-direito/)

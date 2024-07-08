@@ -1,34 +1,109 @@
-# Alexandre Direito
+### Currículo de Alexandre Direito 
 
-Olá! Tenho estudado a área de tecnologia há algum tempo e recentemente ingressei em uma faculdade de ADS. Estou muito entusiasmado e sempre busco aprender cada vez mais.
+#### Informações Pessoais: 
 
-Já aprendi bastante e procurando experiências profissionais:
-- .Net Core, Asp Net Core, MVC, TDD;
-- Programação Orientada à Objeto;
-- C#, Java e Python;
-- SQL Server, MySQL, Docker;
-- Desenvolvimento de Web Api's;
-- HTML / CSS / JavaScript;
-- Versado em Git e GitHub.
+- **Nome**: Alexandre Direito 
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-direito/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lilxande/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xande_dsj/?hl=pt-br)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xande372)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/Au5KZt)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:xandedsj@hotmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:xandedsj@gmail.com)
+- **Idade**: 24 anos 
 
-## Habilidades
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Telefone**: (13) 99652-4755 
 
-## Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+- **E-mail**: xandedsj@gmail.com 
 
-## Ferramentas
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **LinkedIn**: [alexandre-direito](https://www.linkedin.com/in/alexandre-direito/) 
+
+- **GitHub**: [Xande372](https://github.com/Xande372) 
+
+  
+
+#### Objetivo Profissional: 
+
+Busco a posição de Desenvolvedor Júnior, onde possa aplicar e aprimorar meus conhecimentos em desenvolvimento de software e contribuir para o sucesso da empresa. 
+
+  
+
+#### Formação Acadêmica: 
+
+- **2024 - Previsão de Término em 2026**: Análise e Desenvolvimento de Sistemas - Universidade Católica de Santos 
+
+- **2019 - 2023**: Nutrição - Universidade Metropolitana de Santos 
+
+  
+
+#### Certificações: 
+
+- **2024**: .NET Developer - Digital Innovation One (83h) 
+
+- **2024**: Desenvolvimento Java com IA - Digital Innovation One (60h) 
+
+  
+
+#### Experiências Profissionais: 
+
+- **2022 - 2023**: Estagiário em Nutrição 
+
+  - Atuação em Hospital, Escola, ONG’s, Ambulatório 
+
+  - Desenvolvimento de habilidades em comunicação e trabalho em equipe 
+
+  
+
+- **2020 - 2021**: Auxiliar Administrativo, Estoquista, Empacotador - Aignep (CAMPS) 
+
+  - Organização de estoque e suporte administrativo 
+
+  
+
+- **2018 - 2019**: Operador de Rádio, Segurança, Manutenção - Exército Brasileiro (Fortaleza de Itaipu - PG) 
+
+  - Desenvolvimento de disciplina, trabalho em equipe e habilidades técnicas 
+
+  
+
+#### Projetos Educacionais: 
+
+- **Banco Digital**: Desenvolvimento de um banco digital aplicando Programação Orientada a Objetos com Java. Utilização de Visual Studio Code, Git e GitHub. 
+
+- **Sistema para Estacionamento**: Gerenciamento de veículos utilizando C# com Visual Studio Code, Git e GitHub. 
+
+- **Sistema Gerenciador de Tarefas**: Implementação de um CRUD utilizando Web API/MVC, Entity Framework, e SQL. Utilização de Visual Studio Code, Git e GitHub. 
+
+- **Consultas no Banco de Dados**: Execução de 12 consultas utilizando SQL Server e GitHub. 
+
+  
+
+#### Habilidades Técnicas: 
+
+- **Linguagens de Programação**: C#, Java, Python, HTML, CSS, JavaScript 
+
+- **Frameworks e Ferramentas**: Bootstrap, SpringBoot, .NET Core, ASP.NET Core MVC, TDD, Entity Framework 
+
+- **Banco de Dados**: SQL Server, MySQL, Docker (básico) 
+
+- **Outros**: Programação Orientada a Objetos, Web API, API REST, Git e GitHub 
+
+  
+
+#### Idiomas: 
+
+- **Português**: Nativo 
+
+- **Inglês**: Avançado (Listening, Reading, Writing) 
+
+  
+
+#### Competências: 
+
+- **Fácil Aprendizado** 
+
+- **Solução de Problemas via Pesquisa Web** 
+
+- **Proatividade** 
+
+- **Trabalho em Equipe** 
+
+- **Tomada de Decisões** 
+
+- **Boa Comunicação** 
+
+- **Inteligência Emocional** 
